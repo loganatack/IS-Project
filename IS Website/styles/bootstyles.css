@@ -1,0 +1,36 @@
+.tableauPlaceholder{
+    width: 50%; 
+    height: 70%; 
+    padding: auto;
+}
+.header{
+    text-align: center;
+    background-color: aliceblue;
+    padding: 15px;
+}
+.body{
+    background-color: aliceblue;
+}
+.nav{
+    text-align: center;
+    background-color: aliceblue;
+}
+.unlist{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: bisque;
+}
+li a {
+    display: block;
+    color: white;
+    background-color: black;
+    text-align: center;
+    padding: 6px 9px;
+    text-decoration: none;
+    font-size: large;
+}
+li a:hover {
+    background-color: gray;
+}

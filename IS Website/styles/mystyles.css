@@ -1,0 +1,22 @@
+.images{
+    display: block; 
+    margin-left: auto; 
+    margin-right: auto;
+}
+body{
+    background-color: rgb(217, 219, 220);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+span{
+    font-style: italic;
+    color: aquamarine;
+}
+h1{
+    color: aquamarine;
+}
+h2{
+    text-align: center;
+}
+p{
+    text-align: center;
+}
